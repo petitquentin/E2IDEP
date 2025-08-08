@@ -1,0 +1,39 @@
+syntax = "proto2";
+package extractData;
+
+message VectorBool {
+    repeated bool val = 1;
+}
+
+message VectorInt {
+    repeated int32 val = 1;
+}
+
+message VectorDouble {
+    repeated double val = 1;
+}
+
+message listVectorBool {
+    repeated VectorBool vector = 1;
+}
+
+message listVectorInt {
+    repeated VectorInt vector = 1;
+}
+
+message listVectorDouble {
+    repeated VectorDouble vector = 1;
+}
+
+
+//For very large messages
+message masterListVectorDouble{
+    repeated string listVector = 1;
+}
+message masterListVectorInt{
+    repeated string listVector = 1;
+}
+
+message masterListVectorBool{
+    repeated string listVector = 1;
+}
