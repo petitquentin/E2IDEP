@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16781371.svg)](https://doi.org/10.5281/zenodo.16781371)
+
 # Efficient Embedding Initialization via Dominant Eigenvector Projections
 
 This repository contains the source code, data, and experimental scripts used in the paper for the submission to the ScalAH Workshop 2025. It supports reproducibility of the results and figures presented in the manuscript.
