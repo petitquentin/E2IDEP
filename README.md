@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16781371.svg)](https://doi.org/10.5281/zenodo.16781371)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17152690.svg)](https://doi.org/10.5281/zenodo.17152690)
 
 # Efficient Embedding Initialization via Dominant Eigenvector Projections
 
